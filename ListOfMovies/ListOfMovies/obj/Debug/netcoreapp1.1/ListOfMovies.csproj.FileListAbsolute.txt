@@ -1,0 +1,9 @@
+c:\users\yura\documents\visual studio 2017\Projects\ListOfMovies\ListOfMovies\bin\Debug\netcoreapp1.1\ListOfMovies.deps.json
+c:\users\yura\documents\visual studio 2017\Projects\ListOfMovies\ListOfMovies\bin\Debug\netcoreapp1.1\ListOfMovies.runtimeconfig.json
+c:\users\yura\documents\visual studio 2017\Projects\ListOfMovies\ListOfMovies\bin\Debug\netcoreapp1.1\ListOfMovies.runtimeconfig.dev.json
+c:\users\yura\documents\visual studio 2017\Projects\ListOfMovies\ListOfMovies\bin\Debug\netcoreapp1.1\ListOfMovies.dll
+c:\users\yura\documents\visual studio 2017\Projects\ListOfMovies\ListOfMovies\bin\Debug\netcoreapp1.1\ListOfMovies.pdb
+c:\users\yura\documents\visual studio 2017\Projects\ListOfMovies\ListOfMovies\obj\Debug\netcoreapp1.1\ListOfMovies.csprojResolveAssemblyReference.cache
+c:\users\yura\documents\visual studio 2017\Projects\ListOfMovies\ListOfMovies\obj\Debug\netcoreapp1.1\ListOfMovies.AssemblyInfo.cs
+c:\users\yura\documents\visual studio 2017\Projects\ListOfMovies\ListOfMovies\obj\Debug\netcoreapp1.1\ListOfMovies.dll
+c:\users\yura\documents\visual studio 2017\Projects\ListOfMovies\ListOfMovies\obj\Debug\netcoreapp1.1\ListOfMovies.pdb
